@@ -1,2 +1,1 @@
-Purposely create a merge conflict.
-
+intentional merge conflict.
