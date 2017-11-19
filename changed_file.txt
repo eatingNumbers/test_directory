@@ -1,2 +1,3 @@
 add text to make changes to file state.
 add more lines to create a merge conflict.
+add text on the master branch to create a merge conflict.
