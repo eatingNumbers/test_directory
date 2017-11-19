@@ -1,1 +1,2 @@
 add text to make changes to file state.
+adding text to create a merge conflict.
