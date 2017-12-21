@@ -1,1 +1,0 @@
-this is for the example in technique 38 on adding a single commit to the current branch using git cherry-pick.
